@@ -1,16 +1,16 @@
 # Hi there, I'm Neel Shah! 👋
 
-Welcome to my GitHub profile! I'm a first-year student at MNIT Jaipur, pursuing Artificial Intelligence and Data Engineering. Passionate about problem-solving, Web development, and Machine Learning, I love working on new projects and learning along the way.
+Welcome to my GitHub profile! I'm a B. Tech. student at MNIT Jaipur, pursuing Artificial Intelligence and Data Engineering. Passionate about problem-solving, Web development, and Machine Learning, I love working on new projects and learning along the way.
 
 ## 🚀 About Me
 - 🎓 **Education:** MNIT Jaipur | AI & Data Engineering (Batch: 2024-2028)
 - 💡 **Interests:** Machine Learning, Finance, Video Editing
-- 🎧 **Hobbies:** Web Development, Listening to audiobooks
-- 🔍 **Currently Learning:** Web Development & Financial Literacy
+- 🎧 **Hobbies:** Web Development
+- 🔍 **Currently Learning:** Web Development & Machine Learning
 
 ## 💻 Tech Stack
 - **Languages:** Python, C++, JavaScript
-- **Web Dev:** HTML, CSS, JavaScript, React.js
+- **Web Dev:** HTML, CSS, JavaScript, TailwindCSS, React.js, Node.js, Express.js, ejs, JWT Authentication, Mongoose
 
 ## 📫 Connect with Me
 - 📧 Email: [neelsshah2006@gmail.com](mailto:neelsshah2006@gmail.com)
