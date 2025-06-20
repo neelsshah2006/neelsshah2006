@@ -18,6 +18,7 @@ I'm a B. Tech. student at MNIT Jaipur, pursuing Artificial Intelligence and Data
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=neelsshah2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=neelsshah2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neelsshah2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neelsshah2006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
